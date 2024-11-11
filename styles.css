@@ -1,0 +1,9 @@
+/* styles.css */
+ 
+#myElement {
+   color: green; /* 1-0-0  - WINS!! */
+ }
+ .bodyClass .sectionClass .parentClass [id="myElement"] {
+   color: yellow; /* 0-4-0 */
+ }
+ 
